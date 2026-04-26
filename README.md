@@ -1,0 +1,1 @@
+# midcap-stock-pick
